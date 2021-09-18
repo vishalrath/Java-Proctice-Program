@@ -1,0 +1,5 @@
+vishal     rathod        100000    it
+shunham    chavhvan       20010    it
+shital 	   shinde         500000   nonit
+shima       rane          123000   nonit
+shuman    chavhvan       2001000    it
